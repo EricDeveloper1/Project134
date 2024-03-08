@@ -1,0 +1,33 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 64px;
+    width: 100%;
+    margin: 0px;
+    font-family: Gloucester MT Condensed;
+}
+
+#message, #status, #start {
+    font-size: 20px;
+    font-family: Rockwell Condensed;
+    word-spacing: 7px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: right;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 6px 6px 5px lightgrey;
+}
